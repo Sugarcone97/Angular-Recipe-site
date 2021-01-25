@@ -1,0 +1,178 @@
+{
+    "recipies": [
+        {
+            "id": 1,
+            "foodname": "Best Chicken in the world",
+            "moreinfo": "I love chicken, you make it like this",
+            "serving": "2 people",
+            "foodimg": "assets/chicken.jpg",
+            "ingredients": [
+                {
+                    "amount": "1",
+                    "name": "chicken"
+                },
+                {
+                    "amount": "3",
+                    "name": "potatoes"
+                },
+                {
+                    "amount": "1 spoon",
+                    "name": "pepper"
+                }
+            ],
+            "instructions": [
+                "cook chicken",
+                "cook potatoes",
+                "cook everything",
+                "mon apetit"
+            ]
+        },
+        {
+            "id": 2,
+            "foodname": "Best Burger in the world",
+            "moreinfo": "I'm lovin it'",
+            "serving": "2 people",
+            "foodimg": "assets/burger.jpg",
+            "ingredients": [
+                {
+                    "amount": "1 chunk",
+                    "name": "meat"
+                },
+                {
+                    "amount": "1",
+                    "name": "cheese"
+                },
+                {
+                    "amount": "1 spoon",
+                    "name": "ketchup"
+                }
+            ],
+            "instructions": [
+                "smash the meat",
+                "add cheese",
+                "add ketchup",
+                "nom"
+            ]
+        },
+        {
+            "id": 3,
+            "foodname": "Best cake in the world",
+            "moreinfo": "From granny's kitchen",
+            "serving": "2 people",
+            "foodimg": "assets/cookie.png",
+            "ingredients": [
+                {
+                    "amount": "1",
+                    "name": "milka chocolate"
+                },
+                {
+                    "amount": "10 gallons",
+                    "name": "milk"
+                },
+                {
+                    "amount": "1 spoons",
+                    "name": "sugar"
+                }
+            ],
+            "instructions": [
+                "smash chocolate",
+                "dont drink milk yet",
+                "make it heart shape",
+                "decorate"
+            ]
+        },
+        {
+            "id": 4,
+            "foodname": "Best eggs in the world",
+            "moreinfo": "Part of breakfast",
+            "serving": "2 people",
+            "foodimg": "assets/eggs.png",
+            "ingredients": [
+                {
+                    "amount": "2",
+                    "name": "eggs"
+                },
+                {
+                    "amount": "2",
+                    "name": "bacon"
+                },
+                {
+                    "amount": "1 spoon",
+                    "name": "salt"
+                }
+            ],
+            "instructions": [
+                "break egg",
+                "put in the bacon",
+                "add salt",
+                "eat"
+            ]
+        },
+        {
+            "id": 5,
+            "foodname": "Best pancake in the world",
+            "moreinfo": "O' Canada",
+            "serving": "2 people",
+            "foodimg": "assets/pancake.jpg",
+            "ingredients": [
+                {
+                    "amount": "1",
+                    "name": "syrup"
+                },
+                {
+                    "amount": "10 gallons",
+                    "name": "milk"
+                },
+                {
+                    "amount": "1 spoon",
+                    "name": "sugar"
+                },
+                {
+                    "amount": "1 piece",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 package",
+                    "name": "flour"
+                },
+                {
+                    "amount": "1",
+                    "name": "egg"
+                }
+            ],
+            "instructions": [
+                "sigh....",
+                "fry it",
+                "add syrup",
+                "eat"
+            ]
+        },
+        {
+            "id": 6,
+            "foodname": "Best fries in the world",
+            "moreinfo": "Ketchup",
+            "serving": "2 people",
+            "foodimg": "assets/fries.jpg",
+            "ingredients": [
+                {
+                    "amount": "a lot",
+                    "name": "potatoes"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "ketchup"
+                },
+                {
+                    "amount": "1 spoon",
+                    "name": "salt"
+                }
+            ],
+            "instructions": [
+                "add salt",
+                "put the potato in the deep fryer",
+                "add ketchup",
+                "yesss"
+            ]
+        }
+    ]
+}
